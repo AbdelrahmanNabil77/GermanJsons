@@ -744,7 +744,7 @@
 "texpression":"It is about time!",
 "texample":""},
 
-{"expression":"	Die Zeit wird es erweisen.",
+{"expression":"Die Zeit wird es erweisen.",
 "example":"",
 "texpression":"Time will tell.",
 "texample":""},
@@ -879,7 +879,7 @@
 "texpression":"to occupy oneself with sth.",
 "texample":""},
 
-{"expression":"	jdn. mit Samthandschuhen anfassen",
+{"expression":"jdn. mit Samthandschuhen anfassen",
 "example":"",
 "texpression":"to handle sb. with kid gloves",
 "texample":""},
@@ -1019,7 +1019,7 @@
 "texpression":"to make life difficult for sb.",
 "texample":""},
 
-{"expression":"	ungeschoren davonkommen",
+{"expression":"ungeschoren davonkommen",
 "example":"",
 "texpression":"to escape unscathed",
 "texample":""},
@@ -1036,7 +1036,7 @@
 
 {"expression":"jdn. beim Wort nehmen",
 "example":"",
-"texpression":"	to challenge sb.'s word",
+"texpression":"to challenge sb.'s word",
 "texample":""},
 
 {"expression":"wenn es hart auf hart kommt",
@@ -1321,7 +1321,7 @@
 
 {"expression":"sichAkk. anstellen",
 "example":"",
-"texpression":to line up [to form a queue]"",
+"texpression":"to line up [to form a queue]",
 "texample":""},
 
 {"expression":"im Eimer sein",
@@ -1544,7 +1544,7 @@
 "texpression":"to haul sb. over the coals",
 "texample":""},
 
-{"expression":"	sichDat. jdn. schnappen ",
+{"expression":"sichDat. jdn. schnappen",
 "example":"",
 "texpression":"to detain sb.",
 "texample":""},
@@ -1659,7 +1659,7 @@
 "texpression":"to put one and one together",
 "texample":""},
 
-{"expression":"	jdn. zappeln lassen",
+{"expression":"jdn. zappeln lassen",
 "example":"",
 "texpression":"to keep sb. in suspense",
 "texample":""},
@@ -1724,7 +1724,7 @@
 "texpression":"to hand over the reins (of power)",
 "texample":""},
 
-{"expression":"	jdn. aus der Bahn werfen",
+{"expression":"jdn. aus der Bahn werfen",
 "example":"",
 "texpression":"to throw sb. off (the) track",
 "texample":""},
@@ -1997,672 +1997,594 @@
 {"expression":"aus dem Schritt / Tritt kommen",
 "example":"",
 "texpression":"to get out of step",
-"texample":""}
+"texample":""},
 
 {"expression":"Entschuldigen Sie meine offene Rede.",
 "example":"",
 "texpression":"Excuse my French.",
-"texample":""}
+"texample":""},
 
 {"expression":"sichDat. einen Ast lachen",
 "example":"",
 "texpression":"to double up with laughter",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. auf die Palme bringen",
 "example":"",
 "texpression":"to drive sb. up the wall",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. einen Besuch abstatten",
 "example":"",
 "texpression":"to pay a visit to sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"das ist sonnenklar",
 "example":"",
 "texpression":"it's crystal clear",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. eine Abfuhr erteilen",
 "example":"",
 "texpression":"to give sb. the brush-off",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. aus der Fassung bringen",
 "example":"",
 "texpression":"to discomfit sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"an etw.Akk. anknüpfen",
 "example":"",
 "texpression":"to tie in with sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"etw. im Sack haben",
 "example":"",
 "texpression":"to have sth. in the bag",
-"texample":""}
+"texample":""},
 
 {"expression":"die Nase voll haben",
 "example":"",
 "texpression":"to have had enough",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. zur Vernunft bringen",
 "example":"",
 "texpression":"to bring sb. to his senses",
-"texample":""}
+"texample":""},
 
 {"expression":"sehen, wie der Hase läuft",
 "example":"",
 "texpression":"to see how the wind blows",
-"texample":""}
+"texample":""},
 
 {"expression":"Nur Bares ist Wahres.",
 "example":"",
 "texpression":"Cash is king.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. abzocken",
 "example":"",
 "texpression":"to fleece sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. eine Lehre erteilen",
 "example":"",
 "texpression":"to teach sb. a lesson",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. auffliegen lassen",
 "example":"",
 "texpression":"to blow sb.'s cover",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. aufs Lager werfen",
 "example":"",
 "texpression":"to force sb. to take to his / her bed",
-"texample":""}
+"texample":""},
 
 {"expression":"ins Kraut schießen",
 "example":"",
 "texpression":"to run wild [go out of control]",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. den Schneid abkaufen",
 "example":"",
 "texpression":"to dampen sb.'s courage",
-"texample":""}
+"texample":""},
 
 {"expression":"nur einen Steinwurf von einem Ort entfernt sein",
 "example":"",
 "texpression":"to be within spitting distance of a place",
-"texample":""}
+"texample":""},
 
 {"expression":"wie zum Hohn",
 "example":"",
 "texpression":"as if to add insult to injury",
-"texample":""}
+"texample":""},
 
 {"expression":"zu allem Überfluss",
 "example":"",
 "texpression":"to crown it all",
-"texample":""}
+"texample":""},
 
 {"expression":"Eine Krähe hackt der anderen kein Auge aus.",
 "example":"",
 "texpression":"Birds of a feather flock together.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. bei Laune halten",
 "example":"",
 "texpression":"to keep sb. happy",
-"texample":""}
+"texample":""},
 
 {"expression":"auf dem Laufenden bleiben",
 "example":"",
 "texpression":"to keep up with the news",
-"texample":""}
+"texample":""},
 
 {"expression":"aus dem Ruder laufen",
 "example":"",
 "texpression":"to go off course",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. in Watte packen ",
 "example":"",
 "texpression":"to wrap sb. (up) in cotton wool",
-"texample":""}
+"texample":""},
 
 {"expression":"Große Ereignisse werfen ihre Schatten voraus.",
 "example":"",
 "texpression":"Great events are often foreshadowed. ",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. zwiebeln",
 "example":"",
 "texpression":"to be giving a hard time to sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"sich selbstständig machen",
 "example":"",
 "texpression":"to go into business for oneself",
-"texample":""}
+"texample":""},
 
 {"expression":"Dampf ablassen",
 "example":"",
 "texpression":"to let off steam",
-"texample":""}
+"texample":""},
 
 {"expression":"Da suchen Sie eine Stecknadel im Heuhaufen.",
 "example":"",
 "texpression":"You're looking for a needle in a haystack.",
-"texample":""}
+"texample":""},
 
 {"expression":"den Bann brechen",
 "example":"",
 "texpression":"to break the spell",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn./etw. in Augenschein nehmen",
 "example":"",
 "texpression":"to examine sb./sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"Die Bewerber gaben sich die Klinke in die Hand.",
 "example":"",
 "texpression":"There was an endless coming and going of applicants.",
-"texample":""}
+"texample":""},
 
 {"expression":"mit jdm./etw. in Kontakt kommen",
 "example":"",
 "texpression":"to come in contact with sb./sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"alle Hände voll zu tun haben",
 "example":"",
 "texpression":"to have one's work cut out",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. etw.Akk. einbläuen",
 "example":"",
 "texpression":"to beat sth. into sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"Hochmut kommt vor dem Fall.",
 "example":"",
 "texpression":"Pride comes before a fall.",
-"texample":""}
+"texample":""},
 
 {"expression":"Die Kacke ist am Dampfen.",
 "example":"",
 "texpression":"The shit has hit the fan.",
-"texample":""}
+"texample":""},
 
 {"expression":"den Faden verlieren",
 "example":"",
 "texpression":"to lose the thread",
-"texample":""}
+"texample":""},
 
 {"expression":"im Rampenlicht stehen",
 "example":"",
 "texpression":"to be in the spotlight",
-"texample":""}
+"texample":""},
 
 {"expression":"mit etw. zurechtkommen",
 "example":"",
 "texpression":"to cope with sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. ein Geheimnis entlocken",
 "example":"",
 "texpression":"to draw a secret from sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"sichDat. jdn. vorknöpfen",
 "example":"",
 "texpression":"to take sb. to task",
-"texample":""}
+"texample":""},
 
 {"expression":"frisch von der Leber weg sprechen",
 "example":"",
 "texpression":"to speak up",
-"texample":""}
+"texample":""},
 
 {"expression":"eine Gänsehaut bekommen",
 "example":"",
 "texpression":"to get goose bumps",
-"texample":""}
+"texample":""},
 
 {"expression":"eine Schwäche für jdn./etw. haben",
 "example":"",
 "texpression":"to have a soft spot for sb./sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. den Dolch in den Rücken stoßen",
 "example":"",
 "texpression":"to stab sb. in the back",
-"texample":""}
+"texample":""},
 
 {"expression":"Ich mach ihnen keinen Vorwurf.",
 "example":"",
 "texpression":"I don't blame them.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. übel zurichten",
 "example":"",
 "texpression":"to punish sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"sich (jdm.) auftun",
 "example":"",
 "texpression":"to open up (before sb.)",
-"texample":""}
+"texample":""},
 
 {"expression":"als jd./etw. fungieren",
 "example":"",
 "texpression":"to act as sb./sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. zutexten",
 "example":"",
 "texpression":"to overtext sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"auf jdn. einreden",
 "example":"",
 "texpression":"to talk insistently to sb.",
-"texample":""}
+"texample":""},
 
 {"expression":"zu Wort kommen",
 "example":"",
 "texpression":"to get a chance to speak",
-"texample":""}
+"texample":""},
 
 {"expression":"Maßnahmen ergreifen",
 "example":"",
 "texpression":"to take action",
-"texample":""}
+"texample":""},
 
 {"expression":"den Hahn spannen",
 "example":"",
 "texpression":"to cock the gun",
-"texample":""}
+"texample":""},
 
 {"expression":"bis auf [+Akk.]",
 "example":"",
 "texpression":"except sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"sichAkk. (mit etw.Dat.) anstecken",
 "example":"",
 "texpression":"to become infected (with sth.)",
-"texample":""}
+"texample":""},
 
 {"expression":"über etw.Akk. klagen",
 "example":"",
 "texpression":"to complain of sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"vor etw.Dat. schützen",
 "example":"",
 "texpression":"to protect against sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"sich austauschen (über [+Akk.])",
 "example":"",
 "texpression":"to exchange views (about / on)",
-"texample":""}
+"texample":""},
 
 {"expression":"sich für was Besonderes halten",
 "example":"",
 "texpression":"to fancy oneself",
-"texample":""}
+"texample":""},
 
 {"expression":"an jdm./etw. liegen",
 "example":"",
 "texpression":"to be because of sb./sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"an etw.Dat. schuld sein",
 "example":"",
 "texpression":"to be guilty of sth.",
-"texample":""}
-
-{"expression":"sich (selbst) von etw.Dat. überzeugen",
+"texample":""},{"expression":"sich (selbst) von etw.Dat. überzeugen",
 "example":"",
 "texpression":"to convince oneself of sth.",
-"texample":""}
-
-{"expression":"von sichDat. selbst überzeugt",
+"texample":""},{"expression":"von sichDat. selbst überzeugt",
 "example":"",
 "texpression":"self-opinionated",
-"texample":""}
-
-{"expression":"jdn. von oben herab behandeln",
+"texample":""},{"expression":"jdn. von oben herab behandeln",
 "example":"",
 "texpression":"to queen it over sb.",
-"texample":""}
-
-{"expression":"sich in jdn. hineinversetzen",
+"texample":""},{"expression":"sich in jdn. hineinversetzen",
 "example":"",
 "texpression":"to empathize with sb.",
-"texample":""}
-
-{"expression":"sich umstellen",
+"texample":""},{"expression":"sich umstellen",
 "example":"",
 "texpression":"to adjust oneself",
-"texample":""}
-
-{"expression":"mit jdm./etw. umgehen",
+"texample":""},{"expression":"mit jdm./etw. umgehen",
 "example":"",
 "texpression":"to deal with sb./sth.",
-"texample":""}
-
-{"expression":"sich etw.Gen. bewusst sein",
+"texample":""},{"expression":"sich etw.Gen. bewusst sein",
 "example":"",
 "texpression":"to be sensible of sth.",
-"texample":""}
-
-{"expression":"zum Mitmachen",
+"texample":""},{"expression":"zum Mitmachen",
 "example":"",
 "texpression":"hands-on",
-"texample":""}
-
-{"expression":"die Zeit vertreiben",
+"texample":""},{"expression":"die Zeit vertreiben",
 "example":"",
 "texpression":"to kill time",
-"texample":""}
-
-{"expression":"Beachtung finden",
+"texample":""},{"expression":"Beachtung finden",
 "example":"",
 "texpression":"to attract attention",
-"texample":""}
-
-{"expression":"Es ist höchste Zeit.",
+"texample":""},{"expression":"Es ist höchste Zeit.",
 "example":"",
 "texpression":"There is no more time to waste.",
-"texample":""}
-
-{"expression":"anders ticken",
+"texample":""},{"expression":"anders ticken",
 "example":"",
 "texpression":"to have a different mentality",
-"texample":""}
-
-{"expression":"von etw. ausgehen",
+"texample":""},{"expression":"von etw. ausgehen",
 "example":"",
 "texpression":"to assume sth.",
-"texample":""}
-
-{"expression":"Abstand halten",
+"texample":""},{"expression":"Abstand halten",
 "example":"",
 "texpression":"to keep (one's) distance",
-"texample":""}
-
-{"expression":"sich jdm. anschließen",
+"texample":""},{"expression":"sich jdm. anschließen",
 "example":"",
 "texpression":"to accompany sb.",
-"texample":""}
-
-{"expression":"sich aufregen über jdn./etw.",
+"texample":""},{"expression":"sich aufregen über jdn./etw.",
 "example":"",
 "texpression":"to get upset about sb./sth.",
-"texample":""}
-
-{"expression":"auf den Markt kommen",
+"texample":""},{"expression":"auf den Markt kommen",
 "example":"",
 "texpression":"to come into the market",
-"texample":""}
-
-{"expression":"sich gegen etw.Akk. sperren",
+"texample":""},{"expression":"sich gegen etw.Akk. sperren",
 "example":"",
 "texpression":"to jib at sth.",
-"texample":""}
-
-{"expression":"ans Telefon gehen",
+"texample":""},{"expression":"ans Telefon gehen",
 "example":"",
 "texpression":"to answer a call",
-"texample":""}
-
-{"expression":"etw. schleifen lassen",
+"texample":""},{"expression":"etw. schleifen lassen",
 "example":"",
 "texpression":"to let sth. slide",
-"texample":""}
-
-{"expression":"zu etw.Dat. übergehen",
+"texample":""},{"expression":"zu etw.Dat. übergehen",
 "example":"",
 "texpression":"to proceed to sth.",
-"texample":""}
-
-{"expression":"etw. eng sehen",
+"texample":""},{"expression":"etw. eng sehen",
 "example":"",
 "texpression":"to take a narrow view on sth.",
-"texample":""}
-
-{"expression":"jdn. zum Fressen gernhaben ",
+"texample":""},{"expression":"jdn. zum Fressen gernhaben ",
 "example":"",
 "texpression":"to love sb. to bits",
-"texample":""}
-
-{"expression":"etw. auf den Punkt bringen",
+"texample":""},{"expression":"etw. auf den Punkt bringen",
 "example":"",
 "texpression":"to get to the heart of sth.",
-"texample":""}
-
-{"expression":"mit jdm. Schluss machen",
+"texample":""},{"expression":"mit jdm. Schluss machen",
 "example":"",
 "texpression":"to break off with sb.",
-"texample":""}
-
-{"expression":"	einen Zug nehmen",
+"texample":""},{"expression":"einen Zug nehmen",
 "example":"",
 "texpression":"to take a puff",
-"texample":""}
-
-{"expression":"rot werden wie eine Tomate",
+"texample":""},{"expression":"rot werden wie eine Tomate",
 "example":"",
 "texpression":"to go as red as a beetroot",
-"texample":""}
-
-{"expression":"sichDat. etw. besorgen",
+"texample":""},{"expression":"sichDat. etw. besorgen",
 "example":"",
 "texpression":"to get sth.",
-"texample":""}
-
-{"expression":"sichDat. etw. einfangen ",
+"texample":""},{"expression":"sichDat. etw. einfangen ",
 "example":"",
 "texpression":"to catch sth. [fever, cold]",
-"texample":""}
-
-{"expression":"Kommt dir das bekannt vor?",
+"texample":""},{"expression":"Kommt dir das bekannt vor?",
 "example":"",
 "texpression":"Sound familiar?",
-"texample":""}
-
-{"expression":"auf etw.Akk. sinnen",
+"texample":""},{"expression":"auf etw.Akk. sinnen",
 "example":"",
 "texpression":"to plan sth.",
-"texample":""}
-
-{"expression":"mehr oder weniger",
+"texample":""},{"expression":"mehr oder weniger",
 "example":"",
 "texpression":"either more or less",
-"texample":""}
-
-{"expression":"einen Blick auf jdn./etw. erhaschen",
+"texample":""},{"expression":"einen Blick auf jdn./etw. erhaschen",
 "example":"",
 "texpression":"to get a sneak peek at sth.",
-"texample":""}
-
-{"expression":"jdn. anbaggern",
+"texample":""},{"expression":"jdn. anbaggern",
 "example":"",
 "texpression":"to flirt with sb.",
-"texample":""}
-
-{"expression":"Machen Sie es sich bequem!",
+"texample":""},{"expression":"Machen Sie es sich bequem!",
 "example":"",
 "texpression":"Make yourself comfortable!",
-"texample":""}
-
-{"expression":"mit Mühe und Not",
+"texample":""},{"expression":"mit Mühe und Not",
 "example":"",
 "texpression":"with pain and misery",
-"texample":""}
-
-{"expression":"Nichts für ungut",
+"texample":""},{"expression":"Nichts für ungut",
 "example":"",
 "texpression":"No offense!",
-"texample":""}
-
-{"expression":"jdn. sitzen lassen",
+"texample":""},{"expression":"jdn. sitzen lassen",
 "example":"",
 "texpression":"to stand sb. up [fail to appear for a date]",
-"texample":""}
-
-{"expression":"sich hundeelend fühlen",
+"texample":""},{"expression":"sich hundeelend fühlen",
 "example":"",
 "texpression":"to feel like nothing on earth",
-"texample":""}
+"texample":""},
 
 {"expression":"zur Sprache kommen",
 "example":"",
 "texpression":"to come up for discussion",
-"texample":""}
+"texample":""},
 
 {"expression":"zu Stande bringen",
 "example":"",
 "texpression":"to achieve",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. aufs Kreuz legen",
 "example":"",
 "texpression":"to take sb. for a ride",
-"texample":""}
+"texample":""},
 
 {"expression":"sich bei jdm. ausheulen",
 "example":"",
 "texpression":"to have a good cry on sb.'s shoulder",
-"texample":""}
+"texample":""},
 
 {"expression":"ein Tier einschläfern",
 "example":"",
 "texpression":"to put down an animal",
-"texample":""}
+"texample":""},
 
 {"expression":"die Hosen anhaben",
 "example":"",
 "texpression":"to wear the breeches",
-"texample":""}
+"texample":""},
 
 {"expression":"Das ist ein Wort!",
 "example":"",
 "texpression":"That's a deal!",
-"texample":""}
+"texample":""},
 
 {"expression":"etw. sausen lassen",
 "example":"",
 "texpression":"to skip sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"sichDat. etw. erkämpfen",
 "example":"",
 "texpression":"to win sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. zum Rasen bringen",
 "example":"",
 "texpression":"to make sb. rave",
-"texample":""}
+"texample":""},
 
 {"expression":"auf eigene Faust",
 "example":"",
 "texpression":"on one's own account",
-"texample":""}
+"texample":""},
 
 {"expression":"Wer zuerst kommt, mahlt zuerst.",
 "example":"",
 "texpression":"First come, first served.",
-"texample":""}
+"texample":""},
 
 {"expression":"mit jdm./etw. einverstanden sein",
 "example":"",
 "texpression":"to be in agreement with sb./sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"mehrere Eisen im Feuer haben",
 "example":"",
 "texpression":"to have several irons in the fire",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. etw. schuldig sein",
 "example":"",
 "texpression":"to owe sb. sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"ins kalte Wasser springen",
 "example":"",
 "texpression":"to jump in at the deep end",
-"texample":""}
+"texample":""},
 
 {"expression":"Ich bin ganz Ohr.",
 "example":"",
 "texpression":"I'm all ears.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdm. geht die Puste aus",
 "example":"",
 "texpression":"sb. runs out of breath",
-"texample":""}
+"texample":""},
 
 {"expression":"um Luft ringen",
 "example":"",
 "texpression":"to struggle for air",
-"texample":""}
+"texample":""},
 
 {"expression":"Machen wir mal Butter bei die Fische.",
 "example":"",
 "texpression":"Let's be real.",
-"texample":""}
+"texample":""},
 
 {"expression":"mehr oder minder",
 "example":"",
 "texpression":"in varying degrees",
-"texample":""}
+"texample":""},
 
 {"expression":"Da mach ich mir keinen Kopf drum.",
 "example":"",
 "texpression":"I'm not going to lose any sleep over it.",
-"texample":""}
+"texample":""},
 
 {"expression":"Ich gab mein Bestes.",
 "example":"",
 "texpression":"I did my best.",
-"texample":""}
+"texample":""},
 
 {"expression":"gut verlaufen",
 "example":"",
 "texpression":"to go well",
-"texample":""}
+"texample":""},
 
 {"expression":"sich über etw. keine Gedanken machen",
 "example":"",
 "texpression":"to be unconcerned about sth.",
-"texample":""}
+"texample":""},
 
 {"expression":"Es ist plausibel.",
 "example":"",
 "texpression":"It makes sense.",
-"texample":""}
+"texample":""},
 
 {"expression":"etw. auf die leichte Schulter nehmen",
 "example":"",
 "texpression":"to not take sth. seriously enough",
-"texample":""}
+"texample":""},
 
 {"expression":"Das bleibt abzuwarten.",
 "example":"",
 "texpression":"That remains to be seen.",
-"texample":""}
+"texample":""},
 
 {"expression":"jdn. kalt lassen",
 "example":"",
