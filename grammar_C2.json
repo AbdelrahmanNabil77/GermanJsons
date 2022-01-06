@@ -16,7 +16,7 @@
 "answer":"denken"
 }
 ],
-"level":"C2"
+"numberOfQuestions":2,"level":"C2"
 },
 {"title":"Verbkonjugation C2",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
@@ -35,7 +35,7 @@
 "answer":"denken"
 }
 ],
-"level":"C2"
+"numberOfQuestions":2,"level":"C2"
 },
 {"title":"Verbkonjugation C2",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
@@ -54,7 +54,7 @@
 "answer":"denken"
 }
 ],
-"level":"C2"
+"numberOfQuestions":2,"level":"C2"
 },
 {"title":"Verbkonjugation C2",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
@@ -73,7 +73,7 @@
 "answer":"denken"
 }
 ],
-"level":"C2"
+"numberOfQuestions":2,"level":"C2"
 },
 {"title":"Verbkonjugation C2",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
@@ -92,7 +92,7 @@
 "answer":"denken"
 }
 ],
-"level":"C2"
+"numberOfQuestions":2,"level":"C2"
 },
 {"title":"Verbkonjugation C2",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
@@ -111,7 +111,7 @@
 "answer":"denken"
 }
 ],
-"level":"C2"
+"numberOfQuestions":2,"level":"C2"
 },
 {"title":"Verbkonjugation C2",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
@@ -130,6 +130,6 @@
 "answer":"denken"
 }
 ],
-"level":"C2"
+"numberOfQuestions":2,"level":"C2"
 }
 ]
