@@ -6,15 +6,15 @@
 "https://i.ytimg.com/vi/CyME2ZobD60/maxresdefault.jpg"],
 "questions":[
 {"question":"Du denkst oft an ihn? -Ja. Und ich _____, er denkt auch an mich. Manchmal denken wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"hoffe"},
-{"choice":"bin"},
-{"choice":"habe"}],
+"choices":["hoffe",
+"bin",
+"habe"],
 "answer":"hoffe"
 },
 {"question":"Du denkst oft an ihn? -Ja. Und ich hoffe, er denkt auch an mich. Manchmal _____ wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"haben"},
-{"choice":"denken"},
-{"choice":"sein"}],
+"choices":["haben",
+"denken",
+"sein"],
 "answer":"denken"
 }
 ],
@@ -22,121 +22,149 @@
 },
 {"title":"Verbkonjugation A1",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
+"images":[
+"https://i.pinimg.com/1200x/e1/c6/17/e1c617d1aefc76135fc02d71177a803c.jpg",
+"https://i.ytimg.com/vi/CyME2ZobD60/maxresdefault.jpg"],
 "questions":[
 {"question":"Du denkst oft an ihn? -Ja. Und ich _____, er denkt auch an mich. Manchmal denken wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"hoffe"},
-{"choice":"bin"},
-{"choice":"habe"}],
+"choices":["hoffe",
+"bin",
+"habe"],
 "answer":"hoffe"
 },
 {"question":"Du denkst oft an ihn? -Ja. Und ich hoffe, er denkt auch an mich. Manchmal _____ wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"haben"},
-{"choice":"denken"},
-{"choice":"sein"}],
+"choices":["haben",
+"denken",
+"sein"],
 "answer":"denken"
 }
 ],
-"numberOfQuestions":2,
-"level":"A1"
+"numberOfQuestions":2,"level":"A1"
 },
 {"title":"Verbkonjugation A1",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
-"images":["",""],
+"images":[
+"https://i.pinimg.com/1200x/e1/c6/17/e1c617d1aefc76135fc02d71177a803c.jpg",
+"https://i.ytimg.com/vi/CyME2ZobD60/maxresdefault.jpg"],
 "questions":[
 {"question":"Du denkst oft an ihn? -Ja. Und ich _____, er denkt auch an mich. Manchmal denken wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"hoffe"},
-{"choice":"bin"},
-{"choice":"habe"}],
+"choices":["hoffe",
+"bin",
+"habe"],
 "answer":"hoffe"
 },
 {"question":"Du denkst oft an ihn? -Ja. Und ich hoffe, er denkt auch an mich. Manchmal _____ wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"haben"},
-{"choice":"denken"},
-{"choice":"sein"}],
+"choices":["haben",
+"denken",
+"sein"],
 "answer":"denken"
 }
 ],
-"numberOfQuestions":2,
-"level":"A1"
+"numberOfQuestions":2,"level":"A1"
 },
 {"title":"Verbkonjugation A1",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
-"images":["",""],
+"images":[
+"https://i.pinimg.com/1200x/e1/c6/17/e1c617d1aefc76135fc02d71177a803c.jpg",
+"https://i.ytimg.com/vi/CyME2ZobD60/maxresdefault.jpg"],
 "questions":[
 {"question":"Du denkst oft an ihn? -Ja. Und ich _____, er denkt auch an mich. Manchmal denken wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"hoffe"},
-{"choice":"bin"},
-{"choice":"habe"}],
+"choices":["hoffe",
+"bin",
+"habe"],
 "answer":"hoffe"
 },
 {"question":"Du denkst oft an ihn? -Ja. Und ich hoffe, er denkt auch an mich. Manchmal _____ wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"haben"},
-{"choice":"denken"},
-{"choice":"sein"}],
+"choices":["haben",
+"denken",
+"sein"],
 "answer":"denken"
 }
 ],
-"numberOfQuestions":2,
-"level":"A1"
+"numberOfQuestions":2,"level":"A1"
 },
 {"title":"Verbkonjugation A1",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
-"images":["",""],
+"images":[
+"https://i.pinimg.com/1200x/e1/c6/17/e1c617d1aefc76135fc02d71177a803c.jpg",
+"https://i.ytimg.com/vi/CyME2ZobD60/maxresdefault.jpg"],
 "questions":[
 {"question":"Du denkst oft an ihn? -Ja. Und ich _____, er denkt auch an mich. Manchmal denken wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"hoffe"},
-{"choice":"bin"},
-{"choice":"habe"}],
+"choices":["hoffe",
+"bin",
+"habe"],
 "answer":"hoffe"
 },
 {"question":"Du denkst oft an ihn? -Ja. Und ich hoffe, er denkt auch an mich. Manchmal _____ wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"haben"},
-{"choice":"denken"},
-{"choice":"sein"}],
+"choices":["haben",
+"denken",
+"sein"],
 "answer":"denken"
 }
 ],
-"numberOfQuestions":2,
-"level":"A1"
+"numberOfQuestions":2,"level":"A1"
 },
 {"title":"Verbkonjugation A1",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
-"images":["",""],
+"images":[
+"https://i.pinimg.com/1200x/e1/c6/17/e1c617d1aefc76135fc02d71177a803c.jpg",
+"https://i.ytimg.com/vi/CyME2ZobD60/maxresdefault.jpg"],
 "questions":[
 {"question":"Du denkst oft an ihn? -Ja. Und ich _____, er denkt auch an mich. Manchmal denken wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"hoffe"},
-{"choice":"bin"},
-{"choice":"habe"}],
+"choices":["hoffe",
+"bin",
+"habe"],
 "answer":"hoffe"
 },
 {"question":"Du denkst oft an ihn? -Ja. Und ich hoffe, er denkt auch an mich. Manchmal _____ wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"haben"},
-{"choice":"denken"},
-{"choice":"sein"}],
+"choices":["haben",
+"denken",
+"sein"],
 "answer":"denken"
 }
 ],
-"numberOfQuestions":2,
-"level":"A1"
+"numberOfQuestions":2,"level":"A1"
 },
 {"title":"Verbkonjugation A1",
 "topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
-"images":["",""],
+"images":[
+"https://i.pinimg.com/1200x/e1/c6/17/e1c617d1aefc76135fc02d71177a803c.jpg",
+"https://i.ytimg.com/vi/CyME2ZobD60/maxresdefault.jpg"],
 "questions":[
 {"question":"Du denkst oft an ihn? -Ja. Und ich _____, er denkt auch an mich. Manchmal denken wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"hoffe"},
-{"choice":"bin"},
-{"choice":"habe"}],
+"choices":["hoffe",
+"bin",
+"habe"],
 "answer":"hoffe"
 },
 {"question":"Du denkst oft an ihn? -Ja. Und ich hoffe, er denkt auch an mich. Manchmal _____ wir Frauen zu viel über die Liebe nach.",
-"choices":[{"choice":"haben"},
-{"choice":"denken"},
-{"choice":"sein"}],
+"choices":["haben",
+"denken",
+"sein"],
 "answer":"denken"
 }
 ],
-"numberOfQuestions":2,
-"level":"A1"
+"numberOfQuestions":2,"level":"A1"
+},
+{"title":"Verbkonjugation A1",
+"topic":"What is conjugation? Conjugation is the creation of derived forms of a verb. Conjugated verbs are used to express the characteristics of person, number, tense, voice and mode in the German language. In order to form the forms, the division into regular and irregular Verbs is fundamental.",
+"images":[
+"https://i.pinimg.com/1200x/e1/c6/17/e1c617d1aefc76135fc02d71177a803c.jpg",
+"https://i.ytimg.com/vi/CyME2ZobD60/maxresdefault.jpg"],
+"questions":[
+{"question":"Du denkst oft an ihn? -Ja. Und ich _____, er denkt auch an mich. Manchmal denken wir Frauen zu viel über die Liebe nach.",
+"choices":["hoffe",
+"bin",
+"habe"],
+"answer":"hoffe"
+},
+{"question":"Du denkst oft an ihn? -Ja. Und ich hoffe, er denkt auch an mich. Manchmal _____ wir Frauen zu viel über die Liebe nach.",
+"choices":["haben",
+"denken",
+"sein"],
+"answer":"denken"
+}
+],
+"numberOfQuestions":2,"level":"A1"
 }
 ]
