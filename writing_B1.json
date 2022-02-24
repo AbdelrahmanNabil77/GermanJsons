@@ -2,13 +2,13 @@
 {
 "title":"der Brief 01 B1",
 "tips":[
-{"title":"a) Absenderadresse",
+{"origin":"der Brief","title":"a) Absenderadresse",
 "description":"Zuerst sollen Sie die Absenderadresse nennen",
 "examples":[
 "Siglinde Appeldorn – Waldvögeleinstr. 64 – 12345 Buchholz",
 "Siglinde Appeldorn – Waldvögeleinstr. 64 – 12345 Buchholz"]
 },
-{"title":"b) Empfängeradresse",
+{"origin":"der Brief","title":"b) Empfängeradresse",
 "description":"Dann schreiben Sie Empfängeradresse links. Außerdem enthält sie die folgenden Daten wie z.B “Firma, Vor- und Zuname des Ansprechpartners, Adresse (Straße, Hausnummer, PLZ, Ort)”",
 "examples":[
 "Dr. Stürmer//\nABC-Straße 13//\n20545 Augsburg",
@@ -25,13 +25,13 @@
 {
 "title":"der Brief 02 B1",
 "tips":[
-{"title":"a) Absenderadresse",
+{"origin":"der Brief","title":"a) Absenderadresse",
 "description":"Zuerst sollen Sie die Absenderadresse nennen",
 "examples":[
 "Siglinde Appeldorn – Waldvögeleinstr. 64 – 12345 Buchholz",
 "Siglinde Appeldorn – Waldvögeleinstr. 64 – 12345 Buchholz"]
 },
-{"title":"b) Empfängeradresse",
+{"origin":"der Brief","title":"b) Empfängeradresse",
 "description":"Dann schreiben Sie Empfängeradresse links. Außerdem enthält sie die folgenden Daten wie z.B “Firma, Vor- und Zuname des Ansprechpartners, Adresse (Straße, Hausnummer, PLZ, Ort)”",
 "examples":[
 "Dr. Stürmer//\nABC-Straße 13//\n20545 Augsburg",
