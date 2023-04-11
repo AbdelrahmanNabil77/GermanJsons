@@ -1,0 +1,11 @@
+{
+"isCacheEnabled":true,
+"isVocabularyEnabled":true,
+"isGrammarEnabled":true,
+"isHomeEnabled":true,
+"isUnlimitedLivesEnabled":true,
+"isReadingEnabled":true,
+"isWritingEnabled":true,
+"isListeningEnabled":true,
+"isSpeakingEnabled":true
+}
